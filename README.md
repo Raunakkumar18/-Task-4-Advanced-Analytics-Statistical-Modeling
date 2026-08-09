@@ -1,8 +1,8 @@
 # Task-4-Advanced-Analytics-Statistical-Modeling
 
-Dataset: SampleSuperstore(4).csv
-Records: 8,827
-Customers: 790
+- Dataset: SampleSuperstore(4).csv
+- Records: 8,827
+- Customers: 790
 
 ## Completed
 1. Descriptive statistics: mean, median, standard deviation, skewness
